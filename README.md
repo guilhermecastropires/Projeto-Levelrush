@@ -37,16 +37,6 @@ Cada fase apresenta obstáculos e mecânicas que exigem cooperação entre os pa
 
 ---
 
-# 📥 Como Testar o Projeto (Versão Download)
-
-1. Baixe o arquivo `.zip` do jogo.
-2. Extraia o conteúdo para uma pasta de sua preferência.
-3. Abra a pasta extraída.
-4. Execute o arquivo principal do jogo (`.exe`).
-5. Aguarde o carregamento e inicie uma partida.
-
----
-
 # 🌐 Jogar Pela Web
 
 O projeto também está disponível online através da plataforma Itch.io.
