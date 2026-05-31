@@ -1,0 +1,5 @@
+res://scene/inicio.tscn
+res://tiles/terrain.tres
+res://tiles/decoration.tres
+res://tiles/underwater.tres
+res://tiles/lava.tres
